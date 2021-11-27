@@ -1,8 +1,5 @@
 # ACM-W2021_SYNERGY
-Team Members 
-- Srutileka @Sru-ti-leka
-- Ashwathi @Ashwati0923
-- Indusha @INDUSHA-MAHESH 
+### **Team Members**<br>Srutileka @Sru-ti-leka<br>Ashwathi @Ashwati0923<br>Indusha @INDUSHA-MAHESH 
 
 # PROBLEM STATEMENT CROP CARE SYSTEM
 
