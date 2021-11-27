@@ -25,6 +25,7 @@ Internet of Things (IoT) is widely used in connecting devices and collecting dat
 - The water sending time is determined by the moisture sensor, that is in contact with the soil.If humidity is found low water sprayer or fogger is implemented
 - Fan is rolled in if the temperature is found really high 
 - pH is found and and if the pH is low pH high is initiated ans if it is high pH low is implemented
+- All these sensors are connected through wi-fi using Node MCU and a relay controller.
 
 ## Prototype Images
  
