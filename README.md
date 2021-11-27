@@ -1,0 +1,2 @@
+# ACM-W2021_SYNERGY
+This repository is for ACM WOMEN'S HACKATHON 2021
