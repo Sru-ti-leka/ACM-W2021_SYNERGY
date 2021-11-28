@@ -26,5 +26,7 @@ Internet of Things (IoT) is widely used in connecting devices and collecting dat
 - All these sensors are connected through wi-fi using Node MCU and a relay controller.
 
 ## Prototype Images
- 
+ ![Screenshot_2](https://user-images.githubusercontent.com/95114143/143730221-1356d1e6-d9ec-436e-8c70-3c649fb73823.png)
+![image](https://user-images.githubusercontent.com/95114143/143730225-4dc3192d-3a9b-4937-bd87-3b87484ddac7.png)
+
 
